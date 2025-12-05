@@ -6,7 +6,7 @@
 
 ## Contents
 
-- [`day01-linear-regression`](./day01-linear-regression/) – What is ML + build your first model
+- [`week01-linear-regression`](./week01-linear-regression/) – What is ML + build your first model
 
 More days will be added over time.
 
