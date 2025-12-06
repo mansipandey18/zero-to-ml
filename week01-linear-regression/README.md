@@ -8,41 +8,7 @@ Learn Python basics and the math behind linear regression through hands-on pract
 
 ## 🎬 Setup & Start
 
-### Step 1: Fork & Clone (Required for Submitting Work)
-
-**Why fork?** So you can save your solutions and submit them!
-
-```bash
-# 1. Click "Fork" on the main repository
-# 2. Clone YOUR fork
-git clone https://github.com/YOUR-USERNAME/zero-to-ml.git
-cd zero-to-ml
-
-# 3. Create your student directory
-mkdir -p students/YOUR-NAME/week01
-```
-
-### Step 2: Choose Your Environment
-
-**Option 1: VS Code Local** ⭐ Recommended
-```bash
-# Install Python 3.8+ and VS Code
-pip install numpy matplotlib jupyter ipykernel
-code .
-# Open week01-linear-regression/01-python-primer.ipynb
-```
-
-**Option 2: GitHub Codespaces**
-- On YOUR fork: `Code` → `Codespaces` → `Create codespace`
-- Wait for browser VS Code to load
-- Open `01-python-primer.ipynb`
-
-**Option 3: Google Colab** (for quick experiments)
-- Go to [colab.research.google.com](https://colab.research.google.com/)
-- `File` → `Open notebook` → `GitHub` → YOUR fork
-- ⚠️ Remember to save work back to your fork manually
-
-**Detailed instructions:** [SETUP_GUIDE.md](../SETUP_GUIDE.md)
+Setup and environment instructions are centralized in [SETUP_GUIDE.md](../SETUP_GUIDE.md). Follow that document for cloning, environment setup, Codespaces, and Colab instructions.
 
 ---
 
@@ -158,84 +124,9 @@ Want to dive deeper? These are optional but helpful:
 
 ## 🤝 Submit Your Solutions
 
-**After completing each day, submit your work!**
+Submission instructions are maintained in [SUBMISSION_WORKFLOW.md](../SUBMISSION_WORKFLOW.md). Please follow that document for the canonical workflow, PR templates, file naming conventions, and submission checklist.
 
-### Step-by-Step Submission:
-
-1. **Copy your completed notebooks:**
-```bash
-# Copy from week01 folder to YOUR student folder
-cp week01-linear-regression/01-python-primer.ipynb students/YOUR-NAME/week01/
-cp week01-linear-regression/02-math-foundations.ipynb students/YOUR-NAME/week01/
-```
-
-2. **Add reflections** (optional but valuable):
-```bash
-# Create a notes file
-cat > students/YOUR-NAME/week01/NOTES.md << 'EOF'
-# Week 1 Reflections
-
-## Day 1 - Python Primer
-- What clicked: ...
-- What was challenging: ...
-- Questions: ...
-
-## Day 2 - Math Foundations
-- Key takeaway: ...
-- Favorite visualization: ...
-- Areas to review: ...
-EOF
-```
-
-3. **Commit your work:**
-```bash
-git add students/YOUR-NAME/
-git commit -m "Complete Week 1 - Days 1 & 2"
-git push origin main
-```
-
-4. **Create Pull Request:**
-   - Go to your fork on GitHub
-   - Click "Pull requests" → "New pull request"  
-   - **Title:** "Week 1 Solutions - [Your Name]"
-   - **Description:** 
-     ```
-     Completed Week 1 exercises!
-     
-     - ✅ Day 1: Python Primer
-     - ✅ Day 2: Math Foundations
-     
-     **Challenges faced:** ...
-     **What I learned:** ...
-     **Questions:** ...
-     ```
-   - Click "Create pull request"
-
-### What to Include in Your Submission:
-
-**Required:**
-- ✅ Completed `01-python-primer.ipynb` with all exercises solved
-- ✅ Completed `02-math-foundations.ipynb` with all exercises solved
-
-**Optional (but encouraged):**
-- 📝 NOTES.md with your reflections
-- 💡 Additional exercises you created
-- 🎨 Visualizations or diagrams you made
-- ❓ Questions or areas where you struggled
-
-### Benefits of Submitting:
-
-1. **Get feedback** from maintainers and peers
-2. **Help future learners** by showing different approaches
-3. **Build your GitHub portfolio** with real projects
-4. **Join the community** of zero-to-ml learners
-5. **Stay motivated** by sharing your progress
-
-**Don't worry about "perfect" solutions!** We value:
-- Your thought process
-- What you tried
-- Questions you have
-- Creative approaches
+Refer to that file before preparing your `students/<your-name>/` folder and opening a Pull Request.
 
 ---
 
