@@ -111,15 +111,10 @@ Want to dive deeper? These are optional but helpful:
 ### For Day 2 (Math)
 
 **Videos:**
-- [Khan Academy - Slope](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations/x2f8bb11595b61c86:intro-to-slope-intercept-form/v/slope-intercept-form)
-- [StatQuest - Linear Regression](https://youtu.be/nk2CQITm_eo)
+- [Khan Academy - Algebra Unit 5](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:forms-of-linear-equations)
 
 **Interactive:**
 - [Desmos Graphing Calculator](https://www.desmos.com/calculator) - Play with lines!
-- [GeoGebra - Slopes](https://www.geogebra.org/m/sS8wBW6U)
-
-**Reading:**
-- [Better Explained - Linear Regression](https://betterexplained.com/articles/linear-regression/)
 
 ---
 
