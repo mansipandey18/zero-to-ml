@@ -143,9 +143,6 @@ Include:
 - What happened
 - What you expected
 
-### Just Want to Discuss?
-Use [GitHub Discussions](https://github.com/YOUR-USERNAME/zero-to-ml/discussions)
-
 ---
 
 ## ✨ What's Next?
